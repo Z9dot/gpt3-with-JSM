@@ -1,11 +1,21 @@
 import React from "react";
-import { google, slack, dropbox, githubMarkBlack, githubLogoBlack, atlassian, shopify, githubLogoWhite, githubMark } from "./imports";
+import {
+  google,
+  slack,
+  dropbox,
+  githubMarkBlack,
+  githubLogoBlack,
+  atlassian,
+  shopify,
+  githubLogoWhite,
+  githubMark,
+} from "./imports";
 import "./brand.css";
 const Brand = () => {
   return (
     <div className="gpt3__brand section__padding">
       <div>
-        <a href="#"> <img src={githubMarkBlack} alt="google" className="github" /> </a>
+        <img src={google} alt="google" className="github" />
       </div>
       <div>
         <img src={slack} alt="slack" className="brand-img" />
