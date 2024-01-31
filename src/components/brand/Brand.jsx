@@ -15,7 +15,7 @@ const Brand = () => {
   return (
     <div className="gpt3__brand section__padding">
       <div>
-        <img src={google} alt="google" className="github" />
+        <img src={google} alt="google" className="brand-img" />
       </div>
       <div>
         <img src={slack} alt="slack" className="brand-img" />
