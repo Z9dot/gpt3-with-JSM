@@ -1,0 +1,10 @@
+import google from "../../assets/google.png"
+import slack from "../../assets/slack.png"
+import atlassian from "../../assets/atlassian.png"
+import shopify from "../../assets/shopify.png"
+import dropbox from "../../assets/dropbox.png"
+import githubMark from "../../assets/github_mark_white.png"
+import githubLogoWhite from "../../assets/github_logo_white.png"
+import githubMarkBlack from "../../assets/github_mark.png"
+import githubLogoBlack from "../../assets/github_logo.png"
+export { google, slack, atlassian, shopify, dropbox, githubLogoWhite, githubMark, githubMarkBlack, githubLogoBlack }
