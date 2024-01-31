@@ -3,12 +3,8 @@ import {
   google,
   slack,
   dropbox,
-  githubMarkBlack,
-  githubLogoBlack,
   atlassian,
   shopify,
-  githubLogoWhite,
-  githubMark,
 } from "./imports";
 import "./brand.css";
 const Brand = () => {
